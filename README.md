@@ -21,6 +21,8 @@
     <img align="center" alt="Felype-SAP" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
     <img align="center" alt="Felype-SAP" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
     <img align="center" alt="Felype-SAP" src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white">
+    <img align="center" alt="Felype-SAP" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+    
    
     
  </section>
