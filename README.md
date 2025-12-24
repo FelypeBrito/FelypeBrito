@@ -44,7 +44,8 @@ Desenvolvedor focado em robustez e performance, com uma paixão crescente por co
 
 **Creative & Tools**
 <br>
-<img src="https://img.shields.io/badge/VFX-000000?style=for-the-badge&logo=blender&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Blender-000000?style=for-the-badge&logo=blender&logoColor=white"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white">
+<img src="https://img.shields.io/badge/DaVinci_Resolve-333333?style=for-the-badge&logo=davinciresolve&logoColor=white">
 
 ---
