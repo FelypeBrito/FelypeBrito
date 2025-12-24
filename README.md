@@ -3,7 +3,7 @@
   <h3>Oracle Developer | VFX Student | Full Stack Enthusiast</h3>
   
   <p>
-    <a href="https://linkedin.com/in/SEU_USER" target="_blank">
+    <a href="[https://linkedin.com/in/SEU_USER](https://www.linkedin.com/in/felype-brito/)" target="_blank">
       <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white">
     </a>
     <a href="mailto:seuemail@exemplo.com">
